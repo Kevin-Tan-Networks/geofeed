@@ -1,0 +1,5 @@
+# geofeed for AS204535 prefixes (UTF-8, no BOM)
+# ip_prefix,alpha2code,region,city,postal_code
+2a0f:1cc6:bab1::/48,MY,MY-14,Kuala Lumpur,
+2a0f:1cc6:bab2::/48,SG,,Singapore,
+2a0f:1cc6:bab3::/48,SG,,Singapore,
